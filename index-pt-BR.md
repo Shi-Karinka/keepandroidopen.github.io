@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "Keep Android Open"
-lang: br
-permalink: /
+lang: pt-BR
+permalink: /pt-BR/
 description: "Defendendo o Android como uma plataforma livre e aberta para todos construírem aplicativos."
 
 # localizable sections for the footer text
